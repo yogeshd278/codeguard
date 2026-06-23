@@ -23,7 +23,7 @@ A high-performance, lightweight tool built in **Rust** for security testing, pay
 ### Clone and Build
 
 ```bash
-git clone https://github.com/yogeshd278/security-engine.git
+git clone https://github.com/yogeshd278/codeguard.git
 cd security-engine
 cargo build --release
 cargo run
